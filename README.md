@@ -1,4 +1,4 @@
-### olá! Eu sou a Ana Paula 👋
+### Olá! Eu sou a Ana Paula 👋
  🔭 Apaixonada por tecnologia
 - 🌱 Desenvolvedora e Estudante de Análise e Desenvolvimento  de Sistema
 
