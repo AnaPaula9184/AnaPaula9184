@@ -3,6 +3,7 @@
 - 🌱 Desenvolvedora e Estudante de Análise e Desenvolvimento  de Sistema
 
 ![AnaPaula9184's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnaPaula9184&show_icons=true&theme=radical)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidluiz91&layout=compact&langs_count=7&theme=cobalt"/>
 
 ## Tecnologias que eu uso no meu dia
 
